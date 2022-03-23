@@ -13,7 +13,7 @@
 * [Laboratório de Linux #1.2](https://docs.google.com/document/d/1K5YpSgFXxsVLbYpfwySIgVnwRSGTnrQZ7Pfm795Ditk/edit?usp=sharing)
 * [Laboratório de Git #1](https://docs.google.com/document/d/15zZ2y0kuxoI0pVmWYj1ql2TQ2qYdQJfFyNpbVdW_XOI/edit?usp=sharing)
 
-## Requisitos de Software de
+## Requisitos de Software
 
 * [NodeJS **(LTS)**](https://nodejs.org/en/)
 * [TypeScript](https://www.typescriptlang.org/)
