@@ -14,7 +14,7 @@ O código-fonte das demonstrações feitas em aula estão no diretório [devops]
 
 
 ### Angular
-O código desenvolvido em aula, se encontra no diretório [angular](angular). 
+O código desenvolvido em aula, se encontra no diretório [angular](https://github.com/ivanzy/angular). 
 1. [Introdução ao Angular](https://docs.google.com/presentation/d/17Z5iDOKXia8VWf2B45tZb0IzbhtiWEw_E_eEYjgWuB0/edit?usp=sharing)
 2. [Onde Programar?](https://docs.google.com/presentation/d/14xnGLwgE4FyaU5WoYlRlR5cfrnnrc_11vzvRR6GkAi8/edit?usp=sharing)
 3. [Revisão JavaScript](https://docs.google.com/presentation/d/1i-SuOGqMxq7FeB3NGfOWAFFllArOTpkNweloT88-wQk/edit?usp=sharing)
