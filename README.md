@@ -18,3 +18,4 @@
 * [NodeJS **(LTS)**](https://nodejs.org/en/)
 * [TypeScript](https://www.typescriptlang.org/)
 * [Angular](https://angular.io/guide/setup-local)
+* [RxJS](https://rxjs.dev/guide/installation)
