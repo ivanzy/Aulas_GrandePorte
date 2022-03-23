@@ -1,0 +1,14 @@
+---
+- hosts: maquinas_na_amazon
+  become: true
+  tasks:
+  - name: instalar NodeJS e Apache
+    apt:
+      name:
+        - nodejs
+        - apache2
+  - name: enviar um arquivo html
+    copy:
+      src: index.html
+      dest: /var/www/html/
+      mode: 0644
