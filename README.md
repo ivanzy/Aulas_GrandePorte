@@ -12,3 +12,9 @@
 * [Laboratório de Linux #1.1](https://docs.google.com/document/d/12_GgEXUIPSck3WaOfNZ0Q5HAp-qYCQbBwb_ckhCaQfw/edit?usp=sharing)
 * [Laboratório de Linux #1.2](https://docs.google.com/document/d/1K5YpSgFXxsVLbYpfwySIgVnwRSGTnrQZ7Pfm795Ditk/edit?usp=sharing)
 * [Laboratório de Git #1](https://docs.google.com/document/d/15zZ2y0kuxoI0pVmWYj1ql2TQ2qYdQJfFyNpbVdW_XOI/edit?usp=sharing)
+
+## Requisitos de Software de
+
+* [NodeJS **(LTS)**](https://nodejs.org/en/)
+* [TypeScript](https://www.typescriptlang.org/)
+* [Angular](https://angular.io/guide/setup-local)
